@@ -2,24 +2,27 @@
 layout: default
 ---
 
-I'm a doctoral candidate whose research focuses on urban sensory environments, specifically **soundscapes and smellscapes**, background in architecture, urban planning and acoustic environment in **Harbin Institute of Technology**, now exploring sensory perception in public spaces in Hong Kong. 
+I'm a doctoral candidate whose research focuses on urban sensory environments, specifically **soundscapes and smellscapes**, background in architecture, urban planning and acoustic environment in **Harbin Institute of Technology**, now exploring sensory perception in public spaces in Hong Kong, under prof. [Lindborg](./https://scholars.cityu.edu.hk/en/persons/plindbor)'s supervison. 
 
 My work aims to enhance the understanding of how auditory and olfactory stimuli influence urban experiences and user interactions.
 
 [PhD records in City University of Hong Kong](./https://scholars.cityu.edu.hk/en/persons/ranyue6).
-[Email](./ranyue6-c@my.cityu.edu.hk).
+
+[Our Soundlab](./https://soundlab.scm.cityu.edu.hk/).[Multimodal Hong Kong Project](./https://mmhk.scm.cityu.edu.hk/).
+
+[My Email](./ranyue6-c@my.cityu.edu.hk).
 
 * * *
 
 ## Publications
 
-*   **YUE, R.**, LINDBORG, P., LAM, L. H. R., LIN, A. L. & KAM, Y. C., "Sunday Soundscapes: Foreign Domestic Helpers' Acoustic Contributions to Hong Kong's Public Spaces", _Proceedings of 11th Convention of the European Acoustics Association._ European Acoustics Association, EAA, (Proceedings of Forum Acusticum), 2025.
-*   **YUE, R.**, LINDBORG, P., IKESHIRO, R. & GUI, R., "Multimodal Hong Kong: Perceiving pedestrian footbridge spaces in a high-density area through soundscape and smellscape perspectives", _Proceedings of INTER-NOISE 2024._ Institute of Noise Control Engineering, p. 725-735 (INTER-NOISE and NOISE-CON Congress and Conference Proceedings), 2024.
-*   **Yue, R.**, Meng, Q., Yang, D., Wu, Y., Liu, F. & Yan, W., "A visualized soundscape prediction model for design processes in urban parks", In: Building Simulation. 16, 3, p. 337–356, Mar 2023.
+*   **YUE, R.**, LINDBORG, P., LAM, L. H. R., LIN, A. L. & KAM, Y. C., **"Sunday Soundscapes: Foreign Domestic Helpers' Acoustic Contributions to Hong Kong's Public Spaces"**, _Proceedings of 11th Convention of the European Acoustics Association._ European Acoustics Association, EAA, (Proceedings of Forum Acusticum), 2025.
+*   **YUE, R.**, LINDBORG, P., IKESHIRO, R. & GUI, R., **"Multimodal Hong Kong: Perceiving pedestrian footbridge spaces in a high-density area through soundscape and smellscape perspectives"**, _Proceedings of INTER-NOISE 2024._ Institute of Noise Control Engineering, p. 725-735 (INTER-NOISE and NOISE-CON Congress and Conference Proceedings), 2024.
+*   **Yue, R.**, Meng, Q., Yang, D., Wu, Y., Liu, F. & Yan, W., **"A visualized soundscape prediction model for design processes in urban parks"**, In: Building Simulation. 16, 3, p. 337–356, Mar 2023.
 
 ## Awards
 
-*   Outstanding Academic Performance Award (OAPA) for Research Degree Students (non-local UGC-funded students), 28 Aug 2025 and 16 Aug 2024
+*   **Outstanding Academic Performance Award (OAPA)** for Research Degree Students (non-local UGC-funded students), 28 Aug 2025 and 16 Aug 2024
 *   Chan Sui Hung Best Student Award, 16 Aug 2023
 *   Research Tuition Scholarship, 1 Sept 2023
 
