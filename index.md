@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <p style="text-align: justify;">
-I'm a doctoral candidate whose research focuses on urban sensory environments, specifically <strong>soundscapes and smellscapes</strong>, background in architecture, urban planning and acoustic environment in <strong>Harbin Institute of Technology</strong>, now exploring sensory perception in public spaces in Hong Kong, under <a href="https://scholars.cityu.edu.hk/en/persons/plindbor">prof. Lindborg</a>'s supervison. 
+I'm a doctoral candidate whose research focuses on urban sensory environments, specifically <strong>soundscapes and smellscapes</strong>, background in architecture, urban planning and acoustic environment in <strong>Harbin Institute of Technology</strong>, now exploring sensory perception in public spaces in Hong Kong, under <a href="https://scholars.cityu.edu.hk/en/persons/plindbor">prof. Lindborg</a>'s supervision. 
 </p>
 
 <p style="text-align: justify;">
@@ -13,7 +13,6 @@ My work aims to enhance the understanding of how auditory and olfactory stimuli 
 </p>
 
 <a href="https://scholars.cityu.edu.hk/en/persons/ranyue6">- PhD records in City University of Hong Kong</a>
-
 <a href="https://soundlab.scm.cityu.edu.hk/">- Our Soundlab</a> <a href="https://mmhk.scm.cityu.edu.hk/">- Multimodal Hong Kong Project</a>
 
 * * *
@@ -33,5 +32,5 @@ My work aims to enhance the understanding of how auditory and olfactory stimuli 
 
 ```
 :-P
-Many updates on the way……
+Many updates are on the way………………
 ```
