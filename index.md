@@ -2,17 +2,17 @@
 layout: default
 ---
 
-I'm a doctoral candidate whose research focuses on urban sensory environments, specifically **soundscapes and smellscapes**, background in architecture, urban planning and acoustic environment in **Harbin Institute of Technology**, now exploring sensory perception in public spaces in Hong Kong, under <prof. Lindborg href="https://scholars.cityu.edu.hk/en/persons/plindbor">'s supervison. 
-
-<a href="https://scholars.cityu.edu.hk/en/persons/plindbor">View Professor Peter Lindborg's Profile</a>
+<p style="text-align: justify;">
+I'm a doctoral candidate whose research focuses on urban sensory environments, specifically **soundscapes and smellscapes**, background in architecture, urban planning and acoustic environment in **Harbin Institute of Technology**, now exploring sensory perception in public spaces in Hong Kong, under <a href="https://scholars.cityu.edu.hk/en/persons/plindbor">prof. Lindborg</a>'s supervison. 
+</p>
 
 My work aims to enhance the understanding of how auditory and olfactory stimuli influence urban experiences and user interactions.
 
-[- PhD records in City University of Hong Kong](./https://scholars.cityu.edu.hk/en/persons/ranyue6).
+<a href="https://scholars.cityu.edu.hk/en/persons/ranyue6">- PhD records in City University of Hong Kong</a>
 
-[- Our Soundlab](./https://soundlab.scm.cityu.edu.hk/). [- Multimodal Hong Kong Project](./https://mmhk.scm.cityu.edu.hk/).
+<a href="https://soundlab.scm.cityu.edu.hk/">- Our Soundlab</a> <a href="https://mmhk.scm.cityu.edu.hk/">- Multimodal Hong Kong Project</a>
 
-[- My Email](./ranyue6-c@my.cityu.edu.hk).
+<a href="ranyue6-c@my.cityu.edu.hk">- My Emailt</a>
 
 * * *
 
