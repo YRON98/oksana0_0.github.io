@@ -6,11 +6,11 @@ I'm a doctoral candidate whose research focuses on urban sensory environments, s
 
 My work aims to enhance the understanding of how auditory and olfactory stimuli influence urban experiences and user interactions.
 
-[PhD records in City University of Hong Kong](./https://scholars.cityu.edu.hk/en/persons/ranyue6).
+[- PhD records in City University of Hong Kong](./https://scholars.cityu.edu.hk/en/persons/ranyue6).
 
-[Our Soundlab](./https://soundlab.scm.cityu.edu.hk/).[Multimodal Hong Kong Project](./https://mmhk.scm.cityu.edu.hk/).
+[- Our Soundlab](./https://soundlab.scm.cityu.edu.hk/). [- Multimodal Hong Kong Project](./https://mmhk.scm.cityu.edu.hk/).
 
-[My Email](./ranyue6-c@my.cityu.edu.hk).
+[- My Email](./ranyue6-c@my.cityu.edu.hk).
 
 * * *
 
