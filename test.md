@@ -2,122 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm a doctoral candidate whose research focuses on urban sensory environments, specifically **soundscapes and smellscapes**, background in architecture, urban planning and acoustic environment in **Harbin Institute of Technology**, now exploring sensory perception in public spaces in Hong Kong. 
 
-[Link to another page](./another-page.html).
+My work aims to enhance the understanding of how auditory and olfactory stimuli influence urban experiences and user interactions.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+[PhD records in City University of Hong Kong](./https://scholars.cityu.edu.hk/en/persons/ranyue6).
+[Email](./ranyue6-c@my.cityu.edu.hk).
 
 * * *
 
-### Here is an unordered list:
+## Publications
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   **YUE, R.**, LINDBORG, P., LAM, L. H. R., LIN, A. L. & KAM, Y. C., "Sunday Soundscapes: Foreign Domestic Helpers' Acoustic Contributions to Hong Kong's Public Spaces", _Proceedings of 11th Convention of the European Acoustics Association._ European Acoustics Association, EAA, (Proceedings of Forum Acusticum), 2025.
+*   **YUE, R.**, LINDBORG, P., IKESHIRO, R. & GUI, R., "Multimodal Hong Kong: Perceiving pedestrian footbridge spaces in a high-density area through soundscape and smellscape perspectives", _Proceedings of INTER-NOISE 2024._ Institute of Noise Control Engineering, p. 725-735 (INTER-NOISE and NOISE-CON Congress and Conference Proceedings), 2024.
+*   **Yue, R.**, Meng, Q., Yang, D., Wu, Y., Liu, F. & Yan, W., "A visualized soundscape prediction model for design processes in urban parks", In: Building Simulation. 16, 3, p. 337–356, Mar 2023.
 
-### And an ordered list:
+## Awards
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+*   Outstanding Academic Performance Award (OAPA) for Research Degree Students (non-local UGC-funded students), 28 Aug 2025 and 16 Aug 2024
+*   Chan Sui Hung Best Student Award, 16 Aug 2023
+*   Research Tuition Scholarship, 1 Sept 2023
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+:-P
 ```
