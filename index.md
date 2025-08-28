@@ -16,8 +16,6 @@ My work aims to enhance the understanding of how auditory and olfactory stimuli 
 
 <a href="https://soundlab.scm.cityu.edu.hk/">- Our Soundlab</a> <a href="https://mmhk.scm.cityu.edu.hk/">- Multimodal Hong Kong Project</a>
 
-<a href="ranyue6-c@my.cityu.edu.hk">- My Email</a>
-
 * * *
 
 ## Publications
